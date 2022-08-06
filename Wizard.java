@@ -1,5 +1,10 @@
 package CS131Lab2;
 
+/**
+* class Wizard
+* implements Lockable
+*/
+
 public class Wizard implements Lockable {
 	
 	private String name;
